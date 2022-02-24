@@ -58,6 +58,7 @@ function Login() {
       </h1>
       <p>Login and start setting goals</p>
     </section>
+    
     <section className='form'>
       <form onSubmit={onSubmit}>
         <div className='form-group'>

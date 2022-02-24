@@ -1,4 +1,4 @@
-import {createSlice, createAsyncThunk} from '@reduxjs/toolkit'
+import { createSlice, createAsyncThunk } from '@reduxjs/toolkit'
 import authService from './authService'
 
 //Get user from localStorage
@@ -42,7 +42,7 @@ export const login = createAsyncThunk('auth/login', async(user, thuckAPI) => {
     }
 })
 
-export const logout = createAsyncThunk('auth/logout', async () => {
+export const logout = createAsyncThunk('auth/logout', async() => {
     await authService.logout()
 })
 
