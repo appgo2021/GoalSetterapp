@@ -4,12 +4,13 @@
 
 Goad Setter app Link: "https://appgoalsetter.herokuapp.com/"
 
-The user firstly login or register into the app.
-The user can set goals and delete goals, and finally logout when done.
+## Functionality
 
-## Technology used
+* User can register  
+* 
 
-* HTML
+## Library, Tools & Tech
+
 * CSS
 * React, Redux
 * Express
@@ -19,7 +20,7 @@ The user can set goals and delete goals, and finally logout when done.
 * RestAPI
 * Heroku
 
-### additional npm packages
+## additional npm packages
 
 * react-router-dom v6
 * react-toastify, react-icons
