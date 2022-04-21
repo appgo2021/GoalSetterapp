@@ -6,8 +6,11 @@ Goad Setter app Link: "https://appgoalsetter.herokuapp.com/"
 
 ## Functionality
 
-* User can register  
-* 
+* Register
+* Login
+* Set Goals
+* Delete Goals
+* Logout
 
 ## Library, Tools & Tech
 
