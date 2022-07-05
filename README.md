@@ -2,8 +2,6 @@
 
 `Goal Setter app in MERN Stack`
 
-Goad Setter app Link: "https://appgoalsetter.herokuapp.com/"
-
 ## Functionality
 
 * Register
